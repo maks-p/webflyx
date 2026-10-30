@@ -1,0 +1,14 @@
+contents.md
+  h_5aa01f71b79e3d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9a1aa21823902d1fb6cc6daa47c4ea65a3ea2cec",
+  "prompts": {},
+  "humans": {
+    "h_5aa01f71b79e3d": {
+      "author": "maks pazuniak <mpazuniak@gmail.com>"
+    }
+  }
+}
