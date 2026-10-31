@@ -1,0 +1,16 @@
+quotes/starwars.md
+  h_5aa01f71b79e3d 1-5
+quotes/dune.md
+  h_5aa01f71b79e3d 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "07ba625f738073bc6633699e9dfd29bfe38e911d",
+  "prompts": {},
+  "humans": {
+    "h_5aa01f71b79e3d": {
+      "author": "maks pazuniak <mpazuniak@gmail.com>"
+    }
+  }
+}
