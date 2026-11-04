@@ -1,0 +1,14 @@
+quotes/dune.md
+  h_5aa01f71b79e3d 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b232c0f7e86cf8b1cb1873971685a18df2bc67a2",
+  "prompts": {},
+  "humans": {
+    "h_5aa01f71b79e3d": {
+      "author": "maks pazuniak <mpazuniak@gmail.com>"
+    }
+  }
+}
