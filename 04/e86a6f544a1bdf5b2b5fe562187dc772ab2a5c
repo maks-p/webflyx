@@ -1,0 +1,14 @@
+classics.csv
+  h_5aa01f71b79e3d 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "04e86a6f544a1bdf5b2b5fe562187dc772ab2a5c",
+  "prompts": {},
+  "humans": {
+    "h_5aa01f71b79e3d": {
+      "author": "maks pazuniak <mpazuniak@gmail.com>"
+    }
+  }
+}
